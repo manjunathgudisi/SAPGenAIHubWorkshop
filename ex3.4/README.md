@@ -19,13 +19,13 @@ Follow the step-by-step simulator by clicking the link below. The following cred
 
 Once you complete this, you will have the below details.
 
-1.  `URL`: https://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com/v2/inference/deployments/d75048b148e32f76
+1.  `URL`: ****
 
-2.  `clientid`: sb-66bcde36-360f-459e-98e0-a7671e250c46!b244113|aicore!b164
+2.  `clientid`: ****
 
-3.  `clientsecret`: 8f8e3868-1763-44ea-8582-c6fe582e8c07$KMJ3cyMILnT_Koxw1Iwq5PlyLlqszgdfYFGNGPR2Fa8=
+3.  `clientsecret`: ***
 
-4.  `token url`: https://btp-uae-csd-genai-workshop-3h58e9w0.authentication.us10.hana.ondemand.com/oauth/token
+4.  `token url`: ***
 
 Get **Clinet ID** and **Client secret** details from below BTP subaccount, as shown in below.
 
